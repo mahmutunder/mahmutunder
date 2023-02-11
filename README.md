@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [mahmutunder](https://github.com/mahmutunder)
 
-- ⚡ Fun fact **Why did the Java developer break up with his girlfriend?  <br> Because she had too many NullPointerExceptions!**
+- ⚡ Fun fact **Why did the Java developer break up with his girlfriend?  <br> Because she had too many NoSuchElementException!**
 
 
 
