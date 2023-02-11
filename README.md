@@ -1,6 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQHshjS3Jedouw/article-cover_image-shrink_600_2000/0/1620154859681?e=2147483647&v=beta&t=AYY1qwMCI7CGlJwBSXUq0-PU3ozDcP8FFFchGy3Amgw)](https://mahmutunder.io)
 <h1 align="center">Hi 👋, I'm Mahmut Under</h1>
 <h3 align="center">A passionate UI, API and Database Testing and Developing</h3>
+<img align="right" alt="test" width="400px" src="https://earthweb.com/wp-content/uploads/2021/10/Software-Tester.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmutunder&label=Profile%20views&color=0e75b6&style=flat" alt="mahmutunder" /> </p>
 
@@ -12,7 +13,7 @@
 
 - ⚡ Fun fact **Why did the Java developer break up with his girlfriend?  <br> Because she had too many NullPointerExceptions!**
 
-<img align="right" alt="test" width="300px" src="https://earthweb.com/wp-content/uploads/2021/10/Software-Tester.jpg" />
+
 
 
 <p align="left">
