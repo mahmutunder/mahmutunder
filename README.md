@@ -4,7 +4,6 @@
 <h5 align="center">"Without thorough and diligent testing, software can contain undetected bugs and issues that can negatively impact users, potentially leading to data loss, security breaches, and decreased efficiency. A skilled and dedicated tester plays a crucial role in ensuring the quality and reliability of a software product." </h5>
 <img align="right" alt="test" width="400px" src="https://earthweb.com/wp-content/uploads/2021/10/Software-Tester.jpg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmutunder&label=Profile%20views&color=0e75b6&style=flat" alt="mahmutunder" /> </p>
 
 - 🔭 I’m currently working on **Html generator**
 
