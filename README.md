@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Html generator**
 
-- 🌱 I’m currently learning **Java Gui, WinApp testing and C++ arduino**
+- 🌱 I’m currently learning **Java Gui, and C++ arduino**
 
 - 👨‍💻 All of my projects are available at [mahmutunder](https://github.com/mahmutunder)
 
