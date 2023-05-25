@@ -5,13 +5,14 @@
 <img align="right" alt="test" width="400px" src="https://earthweb.com/wp-content/uploads/2021/10/Software-Tester.jpg" />
 
 
-- 🔭 I’m currently working on **Html generator**
+- 🔭 I’m currently working on **Test case generator with Java**
 
-- 🌱 I’m currently learning **Java Gui, and C++ arduino**
+- 🌱 I’m currently learning **JMeter**
 
 - 👨‍💻 All of my projects are available at [mahmutunder](https://github.com/mahmutunder)
 
-- ⚡ Fun fact **Why did the SDET break up with his girlfriend?  <br> Because she had too many NoSuchElementException!**
+- ⚡ Fun fact **Why did the SDET break up with his girlfriend? <br>
+-    Because she had too many NoSuchElementException!**
 
 
 
